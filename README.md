@@ -68,8 +68,9 @@ Full-Stack-Entwickler: Arbeitet sowohl am Frontend als auch am Backend, um eine 
 
 Grafikdesigner: Erstellung von Logos, Bannern, Produktbildern und anderen visuellen Elementen.
 
-Daiva / LOGO, Presentations Folien, Grafik Diagramme
-Julian/ die Produten site
+Daiva: LOGO, Presentations Folien, Grafik Diagramme/
+
+Julian: Design für die Produkten site/
 
 ## Qualitätssicherung
 Tester: Durchführung von Funktionstests, Usability-Tests, Sicherheitsüberprüfungen und Leistungstests; Sicherstellung, dass die Website fehlerfrei und benutzerfreundlich ist.
